@@ -1,4 +1,4 @@
-# links
+Links for data, tools and everything else related to Atmospheric Sciences
 
 ### Reanalysis
 
@@ -16,8 +16,8 @@
 - [MISC] Monthly Climate/Ocean Indices (Time-Series) at PSL [link](https://psl.noaa.gov/data/timeseries/month)
 - [MISC] Northern Hemisphere teleconnection indices from NCEP/CPC [link](https://www.cpc.ncep.noaa.gov/data/teledoc/telecontents.shtml)
 - [MISC] Same data as above, but available at IRI [link](https://iridl.ldeo.columbia.edu/SOURCES/.Indices/.CPC_Indices/)
-- [SOI] Southern Oscilation Index from NCAR [link](https://climatedataguide.ucar.edu/climate-data/southern-oscillation-indices-signal-noise-and-tahitidarwin-slp-soi)
 - [MISC] ENSO, AMO, NAO, PDO from Metoffice [link](https://climate.metoffice.cloud/climate_modes.html)
+- [SOI] Southern Oscilation Index from NCAR [link](https://climatedataguide.ucar.edu/climate-data/southern-oscillation-indices-signal-noise-and-tahitidarwin-slp-soi)
 - 
 ### Gridded data
 ##### Data
@@ -25,3 +25,14 @@
 - Met Office Hadley Centre observations datasets [link](https://www.metoffice.gov.uk/hadobs)
 ##### Tools
 - Plot maps comparing output from different reanalysis, climate models and gridded observations [link](https://psl.noaa.gov/repository/model/compare)
+
+
+### Projects
+
+- Impresive collection of links and information on Python applied to Climate and Oceanographic Sciences [link](https://scrapbox.io/pycoaj/)
+- Project Pythia cookbooks [link](https://cookbooks.projectpythia.org)
+- earthkit-climate: A toolkit for statistical analysis of temporal-geospatial data developed by ECMWF [link](https://github.com/ecmwf/earthkit-climate.git)
+- JuliaClimate Notebooks [link](https://juliaclimate.github.io/Notebooks/#climate-models)
+- Google ArcoERA5 [link](https://github.com/google-research/arco-era5)
+- Google weathertools [lin](https://github.com/google/weather-tools)
+- Google weatherbench2 [link](https://github.com/google-research/weatherbench2)
