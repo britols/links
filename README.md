@@ -10,7 +10,7 @@
 
 - Extract monthly time series. Provided by NOAA [link](https://psl.noaa.gov/data/timeseries/)
 
-#### Climate Indices
+### Climate Indices
 
 - Northern Hemisphere teleconnection indices from NCEP/CPC [link](https://www.cpc.ncep.noaa.gov/data/teledoc/telecontents.shtml)
 - Same data as above, but available at IRI [link](https://iridl.ldeo.columbia.edu/SOURCES/.Indices/.CPC_Indices/)
