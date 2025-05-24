@@ -36,3 +36,19 @@ Links for data, tools and everything else related to Atmospheric Sciences
 - Google ArcoERA5 [link](https://github.com/google-research/arco-era5)
 - Google weathertools [lin](https://github.com/google/weather-tools)
 - Google weatherbench2 [link](https://github.com/google-research/weatherbench2)
+
+### Python
+##### Packages
+- [iris](https://scitools-iris.readthedocs.io/en/stable/index.html)
+- [windspharm](https://ajdawson.github.io/windspharm/)
+- [hvplot](https://hvplot.holoviz.org)
+- [geoviews](https://geoviews.org)
+- [vega-altair](https://altair-viz.github.io)
+- [holoviews](https://holoviews.org)
+##### Community
+- [Working with big challenging data collections](https://acdguide.github.io/BigData/intro.html)
+- [pyAOS](https://pyaos.github.io/stack/)
+- [earthpy](http://earthpy.org)
+##### Blog posts
+- [Distributed Dask Arrays)[https://matthewrocklin.com/blog/work/2016/02/26/dask-distributed-part-3]
+- [Dask working notes](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
